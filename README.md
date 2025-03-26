@@ -1,3 +1,33 @@
+# 🎭 Face Recognition System  
+
+## 📌 Overview  
+
+This project implements a **Face Recognition System** using **OpenCV, Streamlit, and Flask**. It enables **face data collection, training, and real-time recognition** with an integrated **GUI for authentication**. The system also integrates with **MySQL** for user data management.  
+
+---
+
+## 🚀 Features  
+
+✅ **Face Data Collection** – Capture and store facial images for training.  
+✅ **Model Training** – Train a face recognition model using OpenCV.  
+✅ **Real-time Face Recognition** – Authenticate users through a GUI interface.  
+✅ **MySQL Database Integration** – Store and manage user data.  
+✅ **Flask Backend** – API for handling login and authentication requests.  
+✅ **Streamlit GUI** – User-friendly interface for interaction.  
+
+---
+
+## 📥 Installation & Setup  
+
+### 🔧 Environment Setup  
+
+First, create a **virtual environment** using **Anaconda**:  
+
+```bash
+conda create -n face python=3.x
+conda activate face
+pip install -r requirements.txt
+```
 ## Useage
 
 ### Environment
