@@ -1,0 +1,11 @@
+numpy
+opencv-python
+opencv-contrib-python
+mysql-connector-python
+mysql
+pyttsx3
+Pillow
+pysimplegui
+requests
+Flask
+Streamlit
