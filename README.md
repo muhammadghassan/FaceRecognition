@@ -1,3 +1,5 @@
+## This project is  released with the consent of all parties.
+
 # 🎭 Face Recognition System  
 
 ## 📌 Overview  
